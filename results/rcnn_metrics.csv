@@ -1,0 +1,2 @@
+model,accuracy,f1_macro,f1_weighted,training_time_seconds
+Faster R-CNN,0.989,0.988977351543862,0.9889818945113624,2644.909475694003
