@@ -1,6 +1,6 @@
 # Lab 2 - Image Classification with PyTorch
 
-We compared five neural networks on MNIST: a CNN, Faster R-CNN, VGG16, AlexNet and a Vision Transformer built from scratch. We ran the experiments locally in Jupyter on an NVIDIA GeForce RTX 3060 Laptop GPU.
+We compared five neural networks on MNIST: a CNN, Faster R-CNN, VGG16, AlexNet and a Vision Transformer built from scratch.
 
 ## Dataset and evaluation
 
